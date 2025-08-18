@@ -8,7 +8,7 @@
 <!-- About -->    
 - 💬 Ask me about **WebDev, JavaScript, Python**  
 - 📫 How to reach me:  **[talam8068@gmail.com](mailto:talam8068@gmail.com)**
-- 📄 Know about my experiences: **[Resume:file:///C:/Users/talam/Downloads/CV%20Tanzim.pdf](file:///C:/Users/talam/Downloads/CV%20Tanzim.pdf)** 
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1jDcdjUALbrPOO0o91mi7KHdkk_czk4P4/view?usp=drivesdk)** 
 - ⚡ Fun fact: **I'm a ctrl+c, ctrl+v wizard**
 
 ---
