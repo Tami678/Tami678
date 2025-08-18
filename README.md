@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Tanzim Akhtar</h1>
 <p align="center">An indolent and ambivert guy building things for the web.</p>
 
 <!-- Right-side hero image -->
