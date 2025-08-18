@@ -14,7 +14,8 @@
 ---
 
 ## Connect with me
-<a href=linkedin.com/in/tanzim-akhtar-4376631b6> <img src="https://www.flaticon.com/free-icons/linkedin"/></a>
+<a href=linkedin.com/in/tanzim-akhtar-4376631b6>   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://www.instagram.com/akhtartanzim?igsh=ODFnMHAwNTA5bjF3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
